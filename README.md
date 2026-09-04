@@ -34,7 +34,7 @@ management.
 
 Java/Spring Boot • Next.js • PostgreSQL • PhonePe • GCP
 
-[Live Demo] [Source Code]
+[Live Demo](https://cbpmnit.in) • [Source Code]([YOUR_GITHUB_REPOSITORY_URL](https://github.com/cbpmnit/CBP-7.0))
 
 ### DocuSign-Inspired E-Signature Platform
 

@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Parv Agrawal 👋
 
-<!--
-**parvagr247/parvagr247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Chemical Engineering @ MNIT Jaipur | Backend & Full-Stack Developer
 
-Here are some ideas to get you started:
+I build production-oriented backend and full-stack applications with
+Java, Spring Boot, PostgreSQL and modern cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring scalable systems, distributed architectures,
+AI-powered applications and developer tooling.
+
+## 🛠️ Tech Stack
+
+### Languages
+Java • JavaScript • Python • SQL
+
+### Backend
+Spring Boot • Spring Security • Spring AI
+REST APIs • Microservices • Event-Driven Architecture
+
+### Frontend
+React • Next.js • HTML • CSS
+
+### Databases
+PostgreSQL • MongoDB • Redis • Firebase
+
+### DevOps & Cloud
+Docker • Docker Compose • GitHub Actions
+GCP • AWS • OpenTelemetry • Prometheus • Grafana
+
+## 🚀 Featured Projects
+
+### CBP 7.0
+Registration and payment platform with PhonePe integration,
+transaction reconciliation, QR attendance and administrative
+management.
+
+Java/Spring Boot • Next.js • PostgreSQL • PhonePe • GCP
+
+[Live Demo] [Source Code]
+
+### DocuSign-Inspired E-Signature Platform
+
+Full-stack electronic signature application with document
+management, JWT authentication, signer workflows, PDF signature
+rendering and audit logging.
+
+Java • Spring Boot • React • PostgreSQL • Supabase
+
+[Live Demo] [Source Code]
+
+## 💡 What I'm Interested In
+
+Backend Engineering • Distributed Systems • Cloud Infrastructure
+• AI-powered Software • Developer Tools
+
+## 📫 Connect
+
+LinkedIn | Portfolio | Email

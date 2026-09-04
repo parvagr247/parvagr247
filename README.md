@@ -15,7 +15,7 @@ Java • JavaScript • Python • SQL
 
 ### Backend
 Spring Boot • Spring Security • Spring AI
-REST APIs • Microservices • Event-Driven Architecture
+REST APIs • Microservices
 
 ### Frontend
 React • Next.js • HTML • CSS
@@ -25,13 +25,11 @@ PostgreSQL • MongoDB • Redis • Firebase
 
 ### DevOps & Cloud
 Docker • Docker Compose • GitHub Actions
-GCP • AWS • OpenTelemetry • Prometheus • Grafana
 
 ## 🚀 Featured Projects
 
 ### CBP 7.0
-Registration and payment platform with PhonePe integration,
-transaction reconciliation, QR attendance and administrative
+Registration and payment platform with PhonePe integration, QR attendance and administrative
 management.
 
 Java/Spring Boot • Next.js • PostgreSQL • PhonePe • GCP

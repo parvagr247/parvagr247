@@ -44,13 +44,7 @@ rendering and audit logging.
 
 Java • Spring Boot • React • PostgreSQL • Supabase
 
-[Live Demo] [Source Code]
-
 ## 💡 What I'm Interested In
 
 Backend Engineering • Distributed Systems • Cloud Infrastructure
 • AI-powered Software • Developer Tools
-
-## 📫 Connect
-
-LinkedIn | Portfolio | Email
